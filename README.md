@@ -1,2 +1,2 @@
-# Hydroino
+# Hydrino
 Hydroponic with Arduino IDE
